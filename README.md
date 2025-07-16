@@ -7,5 +7,13 @@ This is a simple machine learning web application built with **Flask** that pred
 - Web interface created using **Flask**
 - Real-time prediction based on user input
 
+## Tools
+- Flask
+- scikit-learn
+- Pandas
+- HTML, CSS
+- Python
+
+
 
 
